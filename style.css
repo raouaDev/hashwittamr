@@ -1601,8 +1601,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox=
     box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.1), 0 0 0 40px rgba(255, 255, 255, 0.1), 0 0 0 60px rgba(255, 255, 255, 0.1), 0 0 0 80px rgba(255, 255, 255, 0);
   }
 }
-body.trans_header.slider_has_overlay .store-header :not(custom-salla-product-card *) {
-  color: #000;
+body.trans_header.slider_has_overlay .store-header :not(custom-salla-product-card *):not(.header-btn__icon) {
+  color: #000
 }
 /* .show-original-logo-on-scroll .navbar-brand img {
   filter: invert(2) !important;
