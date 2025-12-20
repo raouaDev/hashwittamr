@@ -1653,3 +1653,6 @@ p.text-base.text-store-text-primary.rtl\:text-right.ltr\:text-left {
 .main-menu li > a[href="https://hashwittamr.com/blog"] {
   display: none !important;
 }
+.swiper-slide h3 {
+  margin-top: 2px !important;
+}
