@@ -1650,3 +1650,6 @@ p.text-base.text-store-text-primary.rtl\:text-right.ltr\:text-left {
 .s-add-product-button-mini-checkout-content {
   color: #fff !important;
 }
+.main-menu li > a[href="https://hashwittamr.com/blog"] {
+  display: none !important;
+}
